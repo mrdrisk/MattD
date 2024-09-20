@@ -1,23 +1,23 @@
 # Number Row Characters
-! Exclamation Point
+* '!' Exclamation Point
 
-@ "AT"
+* '@' "AT"
 
-#Hashtag, Pound, Number
+* '#' Hashtag, Pound, Number
 
-$ Dollar sign, Money, Dollars
+* '$' Dollar sign, Money, Dollars
 
-% Percent
+* '%' Percent
 
-^ Up arrow, To the power of
+* '^' Up arrow, To the power of
 
-& And, Amperstand
+* '&' And, Amperstand
 
-* Star
+* '*' Star
  
-( Left bracket
+* '(' Left bracket
 
-) Right bracket
+* ')' Right bracket
   
 [GitHub Pages](https://pages.github.com/)
 [Khan Academy](https://www.khanacademy.org/)
