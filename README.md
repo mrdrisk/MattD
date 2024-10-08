@@ -27,7 +27,6 @@
 
 😏😸🐶😄
 
-<<<<<<< HEAD
 ## Keyboard shortcuts
 Shortcuts I frequently use: 
 - Ctrl-X (Cut)
@@ -39,18 +38,5 @@ Shortcuts I would like to start using:
 - Win-D (Show desktop)
 - Win-L (Lock the PC screen)
 
-=======
-## Keyboard shortcuts
-Shortcuts I frequently use:
-- Ctrl+V (Paste)
-- Ctrl+C (Copy)
-- Alt+Tab (Switch between open apps)
-
-Shortcuts I would like to start using: 
-- Win+D (Show desktop)
-- Ctrl+A (Select all)
-- Win+L (Lock PC)
-
->>>>>>> abb46402dfb37cbfaad908144316cafa2f4cfb38
 
 [CLI commands](docs/cli.md)
