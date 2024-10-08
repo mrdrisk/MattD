@@ -52,3 +52,5 @@ Shortcuts I would like to start using:
 - Win+L (Lock PC)
 
 >>>>>>> abb46402dfb37cbfaad908144316cafa2f4cfb38
+
+[CLI commands](docs/cli.md)
