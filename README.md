@@ -27,6 +27,19 @@
 
 😏😸🐶😄
 
+<<<<<<< HEAD
+## Keyboard shortcuts
+Shortcuts I frequently use: 
+- Ctrl-X (Cut)
+- F11 (Maximize window)
+- Alt-Tab (Change open apps)
+
+Shortcuts I would like to start using: 
+- Win-X (Open the Quick Link menu)
+- Win-D (Show desktop)
+- Win-L (Lock the PC screen)
+
+=======
 ## Keyboard shortcuts
 Shortcuts I frequently use:
 - Ctrl+V (Paste)
@@ -37,3 +50,5 @@ Shortcuts I would like to start using:
 - Win+D (Show desktop)
 - Ctrl+A (Select all)
 - Win+L (Lock PC)
+
+>>>>>>> abb46402dfb37cbfaad908144316cafa2f4cfb38
