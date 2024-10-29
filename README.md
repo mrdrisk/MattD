@@ -42,5 +42,6 @@ Shortcuts I would like to start using:
 [JSON](docs/players.json)
 [YAML](docs/player.yaml)
 
+## CLI Commands
 
 [CLI commands](docs/cli.md)
