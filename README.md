@@ -38,5 +38,9 @@ Shortcuts I would like to start using:
 - Win-D (Show desktop)
 - Win-L (Lock the PC screen)
 
+## JSON and YAML
+JSON:
+- 
+
 
 [CLI commands](docs/cli.md)
