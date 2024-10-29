@@ -39,8 +39,8 @@ Shortcuts I would like to start using:
 - Win-L (Lock the PC screen)
 
 ## JSON and YAML
-JSON:
-- 
+[JSON](docs/players.json)
+[YAML](docs/player.yaml)
 
 
 [CLI commands](docs/cli.md)
