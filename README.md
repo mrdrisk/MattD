@@ -43,7 +43,7 @@ Shortcuts I would like to start using:
 [YAML](https://github.com/mrdrisk/MattD/blob/main/players.yaml)
 
 ## SQL Intro
-[SQL] (https://github.com/mrdrisk/MattD/blob/main/lab11.sql)
+[SQL](https://github.com/mrdrisk/MattD/blob/main/lab11.sql)
 
 ## CLI Commands
 
