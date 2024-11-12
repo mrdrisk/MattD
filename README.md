@@ -42,6 +42,9 @@ Shortcuts I would like to start using:
 [JSON](https://github.com/mrdrisk/MattD/blob/main/players.json)
 [YAML](https://github.com/mrdrisk/MattD/blob/main/players.yaml)
 
+## SQL Intro
+[SQL] (https://github.com/mrdrisk/MattD/blob/main/lab11.sql)
+
 ## CLI Commands
 
 [CLI commands](docs/cli.md)
