@@ -45,6 +45,9 @@ Shortcuts I would like to start using:
 ## SQL Intro
 [SQL](https://github.com/mrdrisk/MattD/blob/main/lab11.sql)
 
+## SQL Lab 2
+[SQL](https://github.com/mrdrisk/MattD/blob/main/lab12.sql)
+
 ## CLI Commands
 
 [CLI commands](docs/cli.md)
